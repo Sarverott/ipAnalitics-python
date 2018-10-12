@@ -1,0 +1,14 @@
+{
+  "database":{
+    "user":"root",
+    "password":"toor",
+    "ip":"127.0.0.1",
+    "database":"minikron"
+  },
+  "base":{
+    "logsFile":"logs.txt"
+  },
+  "server":{
+    "port":80
+  }
+}
